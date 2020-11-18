@@ -1,2 +1,9 @@
-# workspace
-self workspace
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameslannister&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<details>
+<summary>CLICK ME</summary>
+
+**<summary>标签与正文间一定要空一行！！！**
+</details>
